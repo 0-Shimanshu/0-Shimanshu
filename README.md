@@ -127,32 +127,29 @@ I build **infrastructure-level security tooling** — middleware, API guards, an
 
 <h3>🛡️ <a href="https://github.com/0-Shimanshu/guardlayer">guardlayer</a></h3>
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
+<p>Real-time risk-based security middleware for <b>APIs & LLMs</b>. Scores every request across 5 signal categories with explainable decisions.</p>
+
+<img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 
 <br/><br/>
-
-Real-time risk-based security middleware for **APIs & LLMs**
-
-`Python` `FastAPI` `Pydantic` `Redis`
-
-<br/>
 
 <img src="https://img.shields.io/badge/🌟_GSSoC_2026-Selected-f97316?style=for_the_badge&labelColor=0d1117" />
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<h3>🤖 Language Agnostic Chatbot</h3>
+<h3>🤖 <a href="https://github.com/0-Shimanshu/Minor_Project_CMCA">Campus Management Chatbot Assistant</a></h3>
 
-<img src="https://media.giphy.com/media/3o7qDQ4kcSD1PLM3BK/giphy.gif" width="200" />
+<p>Language-agnostic multilingual campus chatbot supporting <b>Hindi, English & regional languages</b> with context retention and privacy handling.</p>
+
+<img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/REST_API-6E40C9?style=flat-square" />
 
 <br/><br/>
-
-Multilingual campus chatbot with **context retention & privacy**
-
-`Python` `Hugging Face` `REST API`
-
-<br/>
 
 <img src="https://img.shields.io/badge/👥_Team_Lead-Built-0ea5e9?style=for_the_badge&labelColor=0d1117" />
 
@@ -161,36 +158,48 @@ Multilingual campus chatbot with **context retention & privacy**
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h3>📊 <a href="https://github.com/0-Shimanshu/-Placement-Dataset-Visualization-and-Prediction_">Placement Prediction</a></h3>
+<h3>🗄️ <a href="https://github.com/0-Shimanshu/dbmsproject">Banking Management System</a></h3>
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
+<p>Full relational database system for <b>customer accounts & transactions</b> — deposits, withdrawals, balance tracking.</p>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 <br/><br/>
 
-End-to-end **ML pipeline** for placement data analysis & prediction
-
-`Python` `Scikit-learn` `Pandas` `Jupyter`
-
-<br/>
-
-<img src="https://img.shields.io/badge/🧑‍💻_Solo_Project-Built-22c55e?style=for_the_badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🏆_Hackathon_Winner-2025-FFD700?style=for_the_badge&labelColor=0d1117" />
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<h3>🗄️ <a href="https://github.com/0-Shimanshu/dbmsproject">Banking Management</a></h3>
+<h3>✍️ <a href="https://github.com/0-Shimanshu/Handwritten_Digit_Prediction_Program">Handwritten Digit Prediction</a></h3>
 
-<img src="https://media.giphy.com/media/JtBZm3Getg3dqxK60a/giphy.gif" width="200" />
+<p>Deep learning model for <b>handwritten digit recognition</b> using neural networks and image classification.</p>
+
+<img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square" />
 
 <br/><br/>
 
-Full relational DB system for **accounts & transactions**
+<img src="https://img.shields.io/badge/⭐_1_Star-Solo-22c55e?style=for_the_badge&labelColor=0d1117" />
 
-`SQL` `JavaScript`
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
-<br/>
+<h3>📊 <a href="https://github.com/0-Shimanshu/-Placement-Dataset-Visualization-and-Prediction_">Placement Prediction</a></h3>
 
-<img src="https://img.shields.io/badge/🏆_Hackathon_Winner-2025-FFD700?style=for_the_badge&labelColor=0d1117" />
+<p>End-to-end <b>ML pipeline</b> for visualising placement data and predicting outcomes using classification models.</p>
+
+<img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🧑‍💻_Solo_Project-Built-22c55e?style=for_the_badge&labelColor=0d1117" />
 
 </td>
 </tr>
