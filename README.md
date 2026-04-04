@@ -1,165 +1,329 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0d1117,50:0f1923,100:161b22&text=Shimanshu%20Chouhan&fontSize=50&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Security%20%7C%20Open%20Source&descSize=17&descAlignY=57&descColor=58A6FF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,25:161b22,50:1a1f2e,75:1f2937,100:0f172a&text=Shimanshu%20Chouhan&fontSize=55&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20•%20AI%20Security%20•%20Open%20Source&descSize=18&descAlignY=55&descColor=7dd3fc&stroke=7dd3fc&strokeWidth=1" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+risk-based+security+for+backends+%26+LLM+APIs.;Python+%7C+FastAPI+%7C+Pydantic+%7C+SQL+%7C+Open+Source.;GSSoC+2026+%E2%80%94+3x+Hackathon+Winner+%E2%80%94+AIR+28+CodeNinja." />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.E.%20CSE-Acropolis%20AITR%2C%20Indore-58A6FF?style=flat-square&labelColor=0d1117" />
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9B%A1%EF%B8%8F+Building+risk-based+security+for+APIs+%26+LLMs;%E2%9A%A1+Python+%7C+FastAPI+%7C+Pydantic+%7C+Redis+%7C+Open+Source;%F0%9F%8F%86+3x+Hackathon+Winner+%E2%80%A2+AIR+28+CodeNinja+%E2%80%A2+GSSoC+2026" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Status Badges -->
+  <img src="https://img.shields.io/badge/🎓_B.E._CSE-Acropolis_AITR,_Indore-0ea5e9?style=for_the_badge&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GSSoC%202026-Open%20Source-FF7B54?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🌟_GSSoC_2026-Open_Source_Contributor-f97316?style=for_the_badge&labelColor=0d1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Seeking-Backend%20Internship-3FB950?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🔍_Seeking-Backend_Internship-22c55e?style=for_the_badge&labelColor=0d1117" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=0-Shimanshu&label=Profile+Views&color=58A6FF&style=flat-square&labelColor=0d1117" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=0-Shimanshu&label=PROFILE+VIEWS&color=0ea5e9&style=for_the_badge&labelColor=0d1117" />
 
----
+</div>
 
-## About
+<br/>
 
-I'm **Shimanshu**, a third-year B.E. CSE student at **Acropolis Institute of Technology & Research, Indore** (2023–2027), focused on backend development and AI-integrated systems.
+<!-- ═══════════════════════════════════════════════════════ -->
 
-My work centres on systems that operate at the infrastructure level — middleware, API guards, and risk-scoring pipelines. My current open-source project, **guardlayer**, sits at the intersection of backend engineering and LLM security, and is selected for **GSSoC 2026**.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- 🛡️ Author of **[guardlayer](https://github.com/0-Shimanshu/guardlayer)** — real-time, risk-scored API and LLM security middleware
-- 🏆 **3× Hackathon Winner** — Blockchain/Web3, UI-Path RPA, DBMS (Dec 2024 – Dec 2025)
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+
+<table>
+<tr>
+<td width="55%">
+
+### Hey, I'm Shimanshu! 👋
+
+I'm a **third-year B.E. CSE student** at **Acropolis Institute of Technology & Research, Indore** (2023–2027), building systems at the intersection of **backend engineering** and **AI security**.
+
+My work focuses on infrastructure-level tooling — middleware, API guards, and risk-scoring pipelines. Currently building **guardlayer**, an open-source real-time security middleware for LLM applications, selected for **GSSoC 2026**.
+
+- 🛡️ Author of **[guardlayer](https://github.com/0-Shimanshu/guardlayer)** — risk-scored API & LLM security middleware
+- 🏆 **3× Hackathon Winner** — Blockchain/Web3, UI-Path RPA, DBMS
 - 🥇 **AIR 28** — CodeNinja All-India Coding Competition 2024
-- ☁️ **Google Cloud Mentor** — guided peers on cloud fundamentals and deployment (Oct–Nov 2025)
-- 🎯 Currently deepening expertise in **system design**, **async Python**, and **LLM security tooling**
+- ☁️ **Google Cloud Mentor** — guided peers on cloud fundamentals
+- 🎯 Currently exploring **system design**, **async Python**, & **LLM security**
 
----
+</td>
+<td width="45%" align="center">
 
-## Projects
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding animation" />
 
-| Project | Description | Stack | Role |
-|---|---|---|---|
-| 🛡️ **[guardlayer](https://github.com/0-Shimanshu/guardlayer)** | Real-time risk-based guard system for backend APIs and LLM applications. Scores every request across 5 signal categories — injection, behavioural, contextual, temporal, and AI-specific — with fully explainable decisions. GSSoC 2026 open source project. | Python, FastAPI, Pydantic, Presidio, rebuff, llm-guard, Redis | Author & Maintainer |
-| 🤖 **Language Agnostic Chatbot** | Multilingual campus chatbot supporting Hindi, English, and regional languages for student queries. Handles context retention, privacy, and college platform integration. | Python, Hugging Face, REST API | Backend Dev & AI Integration (Team Lead) |
-| 📊 **[Placement Prediction](https://github.com/0-Shimanshu/-Placement-Dataset-Visualization-and-Prediction_)** | End-to-end ML pipeline for visualising placement data and predicting placement outcomes using classification models. | Python, Jupyter, Scikit-learn, Pandas | Solo |
-| 🗄️ **[Banking Management System](https://github.com/0-Shimanshu/dbmsproject)** | Relational database system for customer accounts and transactions — deposits, withdrawals, balance tracking. Winner at DBMS Hackathon 2025. | SQL, JavaScript | DB Design & SQL Dev (Team Lead) |
+<br/>
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for_the_badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shimanshu-chouhan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for_the_badge&logo=gmail&logoColor=white)](mailto:shimanshuyz@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for_the_badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/0_shimanshu)
+[![GitHub](https://img.shields.io/badge/⭐_guardlayer-FF7B54?style=for_the_badge&logo=github&logoColor=white)](https://github.com/0-Shimanshu/guardlayer)
 
-## Tech Stack
+</td>
+</tr>
+</table>
 
-**Languages**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![Python](https://img.shields.io/badge/Python-3.10+-3572A5?style=flat-square&logo=python&logoColor=white&labelColor=0d1117)
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-Systems-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0d1117)
-![SQL](https://img.shields.io/badge/SQL-Relational-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117)
+<!-- ═══════════════════════════════════════════════════════ -->
 
-**Backend & APIs**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Tech Stack
 
-![FastAPI](https://img.shields.io/badge/FastAPI-Async-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117)
-![Pydantic](https://img.shields.io/badge/Pydantic-v2-E92063?style=flat-square&labelColor=0d1117)
-![REST APIs](https://img.shields.io/badge/REST_APIs-JSON%20%2F%20Request%20Flow-6E40C9?style=flat-square&labelColor=0d1117)
-![Redis](https://img.shields.io/badge/Redis%2FValkey-Rate%20Limiting-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0d1117)
-![SQLite](https://img.shields.io/badge/SQLite-Persistence-003B57?style=flat-square&logo=sqlite&logoColor=white&labelColor=0d1117)
+<div align="center">
 
-**AI / LLM Security**
+#### 🔤 Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js&theme=dark" alt="Languages" />
 
-![Presidio](https://img.shields.io/badge/Presidio-PII%20Detection-0078D4?style=flat-square&labelColor=0d1117)
-![rebuff](https://img.shields.io/badge/rebuff-Prompt%20Injection-FF4B4B?style=flat-square&labelColor=0d1117)
-![llm-guard](https://img.shields.io/badge/llm--guard-Jailbreak%20Detection-7C3AED?style=flat-square&labelColor=0d1117)
-![detoxify](https://img.shields.io/badge/detoxify-Toxicity%20Scoring-16A34A?style=flat-square&labelColor=0d1117)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=0d1117)
-![Ollama](https://img.shields.io/badge/Ollama-Local%20AI-000000?style=flat-square&labelColor=0d1117)
+<br/><br/>
 
-**Data & ML**
+#### ⚙️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,redis&theme=dark" alt="Backend" />
 
-![Pandas](https://img.shields.io/badge/Pandas-Data-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0d1117)
-![NumPy](https://img.shields.io/badge/NumPy-Arrays-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0d1117)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0d1117)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=0d1117)
+<br/><br/>
 
-**Tools**
+#### 🧠 AI / ML & Data
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI ML" />
+&nbsp;
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for_the_badge&logoColor=black&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for_the_badge&logo=pandas&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for_the_badge&logo=numpy&logoColor=white&labelColor=0d1117" />
 
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0d1117)
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0d1117)
+<br/><br/>
 
----
+#### 🛡️ AI Security Tooling
+<img src="https://img.shields.io/badge/Presidio-PII_Detection-0078D4?style=for_the_badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/rebuff-Prompt_Injection-FF4B4B?style=for_the_badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/llm--guard-Jailbreak_Detection-7C3AED?style=for_the_badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/detoxify-Toxicity_Scoring-16A34A?style=for_the_badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Ollama-Local_AI-000000?style=for_the_badge&labelColor=0d1117" />
 
-## Achievements
+<br/><br/>
 
-| | |
-|---|---|
-| 🏆 **Winner** — Blockchain & Web3 Hackathon (Dec 2024) | Built a decentralised certificate verification system |
-| 🏆 **Winner** — UI-Path Hackathon (Dec 2024) | Sentiment Analysis Bot with RPA integration |
-| 🏆 **Winner** — DBMS Hackathon (Dec 2025) | Banking Management System |
-| 🥇 **AIR 28** — CodeNinja All-India Coding Competition (2024) | |
-| 🌟 **GSSoC 2026** — Open Source Selection | guardlayer selected as a GSSoC 2026 project |
+#### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" alt="Tools" />
 
----
+<br/><br/>
 
-## Community
+#### 🗃️ Databases
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql&theme=dark" alt="Databases" />
 
-- 🌐 **Member**, GDG on Campus — Acropolis AITR (Oct 2024 – Jul 2025)
-- 🎤 **Organiser**, Code-Sphier 2.0 — inter-college coding competition (Dec 2024)
-- 🎤 **Organiser**, GDG Indore Event — AI & cloud technology workshops (Feb 2025)
-- 🎓 **Mentor**, Google Cloud Program — guided peers on cloud fundamentals and deployment (Oct–Nov 2025)
+</div>
 
----
+<br/>
 
-## Certifications
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![IBM](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-052FAD?style=flat-square&logo=ibm&logoColor=white&labelColor=0d1117)
-![Google](https://img.shields.io/badge/Google%20Cloud-Generative%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0d1117)
-![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Prompt%20Engineering-FF6F00?style=flat-square&labelColor=0d1117)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Building%20AI%20Agents-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=0d1117)
-![NPTEL](https://img.shields.io/badge/NPTEL-OOP%20%7C%20DBMS-003366?style=flat-square&labelColor=0d1117)
+<!-- ═══════════════════════════════════════════════════════ -->
 
----
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;Featured Projects
 
-## GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0-Shimanshu&show_icons=true&theme=github_dark&border_color=30363d&border_radius=8&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://streak-stats.demolab.com/?user=0-Shimanshu&theme=github-dark-blue&border=30363d&border_radius=8" />
-</p>
+<a href="https://github.com/0-Shimanshu/guardlayer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=0-Shimanshu&repo=guardlayer&theme=react&bg_color=0d1117&border_color=1e293b&icon_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="49%" />
+</a>
+<a href="https://github.com/0-Shimanshu/dbmsproject">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=0-Shimanshu&repo=dbmsproject&theme=react&bg_color=0d1117&border_color=1e293b&icon_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="49%" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0-Shimanshu&langs_count=6&layout=compact&theme=github_dark&border_color=30363d&border_radius=8" />
-</p>
+<br/>
 
----
+<a href="https://github.com/0-Shimanshu/-Placement-Dataset-Visualization-and-Prediction_">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=0-Shimanshu&repo=-Placement-Dataset-Visualization-and-Prediction_&theme=react&bg_color=0d1117&border_color=1e293b&icon_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="49%" />
+</a>
+<a href="https://github.com/0-Shimanshu/0-Shimanshu">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=0-Shimanshu&repo=0-Shimanshu&theme=react&bg_color=0d1117&border_color=1e293b&icon_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="49%" />
+</a>
 
-## LeetCode
+</div>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/0_shimanshu?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8" />
-</p>
+<br/>
 
----
+<details>
+<summary><b>📋 Detailed Project Breakdown</b></summary>
+<br/>
 
-## Contribution Activity
+| # | Project | Description | Stack | Role |
+|:-:|---|---|---|---|
+| 🛡️ | **[guardlayer](https://github.com/0-Shimanshu/guardlayer)** | Real-time risk-based guard system for backend APIs and LLM apps. Scores requests across 5 signal categories with explainable decisions. **GSSoC 2026** project. | Python, FastAPI, Pydantic, Presidio, rebuff, llm-guard, Redis | Author & Maintainer |
+| 🤖 | **Language Agnostic Chatbot** | Multilingual campus chatbot (Hindi, English, regional) with context retention and privacy handling. | Python, Hugging Face, REST API | Team Lead |
+| 📊 | **[Placement Prediction](https://github.com/0-Shimanshu/-Placement-Dataset-Visualization-and-Prediction_)** | End-to-end ML pipeline for visualising and predicting placement outcomes. | Python, Scikit-learn, Pandas | Solo |
+| 🗄️ | **[Banking Management](https://github.com/0-Shimanshu/dbmsproject)** | Relational DB system for accounts & transactions. **DBMS Hackathon 2025 Winner**. | SQL, JavaScript | Team Lead |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0-Shimanshu&theme=github-compact&hide_border=true&area=true" />
-</p>
+</details>
 
----
+<br/>
 
-## Connect
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center">
-  <a href="mailto:shimanshuyz@gmail.com">
-    <img src="https://img.shields.io/badge/shimanshuyz@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/shimanshu-chouhan">
-    <img src="https://img.shields.io/badge/shimanshu--chouhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/0_shimanshu">
-    <img src="https://img.shields.io/badge/0__shimanshu-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/0-Shimanshu/guardlayer">
-    <img src="https://img.shields.io/badge/⭐%20Star%20guardlayer-FF7B54?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" />
-  </a>
-</p>
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:161b22,100:0d1117&section=footer" />
+## 🏆 Achievements & Awards
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=0-Shimanshu&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="98%" alt="GitHub Trophies" />
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="20%">
+  <img src="https://img.shields.io/badge/🏆-Winner-FFD700?style=for_the_badge&labelColor=0d1117" /><br/>
+  <b>Blockchain & Web3</b><br/>
+  <sub>Hackathon · Dec 2024</sub>
+</td>
+<td align="center" width="20%">
+  <img src="https://img.shields.io/badge/🏆-Winner-FFD700?style=for_the_badge&labelColor=0d1117" /><br/>
+  <b>UI-Path RPA</b><br/>
+  <sub>Hackathon · Dec 2024</sub>
+</td>
+<td align="center" width="20%">
+  <img src="https://img.shields.io/badge/🏆-Winner-FFD700?style=for_the_badge&labelColor=0d1117" /><br/>
+  <b>DBMS</b><br/>
+  <sub>Hackathon · Dec 2025</sub>
+</td>
+<td align="center" width="20%">
+  <img src="https://img.shields.io/badge/🥇-AIR_28-C0C0C0?style=for_the_badge&labelColor=0d1117" /><br/>
+  <b>CodeNinja</b><br/>
+  <sub>All-India · 2024</sub>
+</td>
+<td align="center" width="20%">
+  <img src="https://img.shields.io/badge/🌟-Selected-f97316?style=for_the_badge&labelColor=0d1117" /><br/>
+  <b>GSSoC 2026</b><br/>
+  <sub>Open Source</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0-Shimanshu&show_icons=true&theme=react&bg_color=0d1117&border_color=1e293b&icon_color=38bdf8&title_color=38bdf8&text_color=94a3b8&include_all_commits=true&count_private=true&ring_color=38bdf8" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://streak-stats.demolab.com/?user=0-Shimanshu&theme=react&background=0d1117&border=1e293b&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Shimanshu&langs_count=8&layout=compact&theme=react&bg_color=0d1117&border_color=1e293b&title_color=38bdf8&text_color=94a3b8" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0-Shimanshu/0-Shimanshu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0-Shimanshu/0-Shimanshu/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/0-Shimanshu/0-Shimanshu/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0-Shimanshu&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316&area=true&area_color=1e293b&hide_border=true&custom_title=Shimanshu's%20Contribution%20Graph" width="98%" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/0_shimanshu?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" width="500" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IBM-Python_for_Data_Science-052FAD?style=for_the_badge&logo=ibm&logoColor=white&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Google_Cloud-Generative_AI-4285F4?style=for_the_badge&logo=googlecloud&logoColor=white&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/DeepLearning.AI-Prompt_Engineering-FF6F00?style=for_the_badge&labelColor=0d1117" />
+<br/><br/>
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-Building_AI_Agents-FFD21E?style=for_the_badge&logoColor=black&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/NPTEL-OOP_|_DBMS-003366?style=for_the_badge&labelColor=0d1117" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 🤝 Community & Leadership
+
+<div align="center">
+
+| 🌐 | **GDG on Campus** — Acropolis AITR | Member | Oct 2024 – Jul 2025 |
+|:-:|---|---|---|
+| 🎤 | **Code-Sphier 2.0** — Inter-college coding competition | Organiser | Dec 2024 |
+| 🎤 | **GDG Indore Event** — AI & cloud technology workshops | Organiser | Feb 2025 |
+| 🎓 | **Google Cloud Program** — Cloud fundamentals & deployment | Mentor | Oct–Nov 2025 |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+<a href="mailto:shimanshuyz@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-shimanshuyz@gmail.com-EA4335?style=for_the_badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/shimanshu-chouhan">
+  <img src="https://img.shields.io/badge/LinkedIn-shimanshu--chouhan-0A66C2?style=for_the_badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/0_shimanshu">
+  <img src="https://img.shields.io/badge/LeetCode-0__shimanshu-FFA116?style=for_the_badge&logo=leetcode&logoColor=black&labelColor=0d1117" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/0-Shimanshu/guardlayer">
+  <img src="https://img.shields.io/badge/⭐_Star_guardlayer-FF7B54?style=for_the_badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:1e293b,100:0d1117&section=footer&fontSize=0" width="100%" />
+
+</div>
