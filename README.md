@@ -43,7 +43,7 @@ Thrid-year **B.E. CSE** at **Acropolis AITR, Indore**
 
 I build **infrastructure-level security tooling** — middleware, API guards, and risk-scoring pipelines for LLM applications.
 
-🛡️ Creator of **[guardlayer](https://github.com/0-Shimanshu/guardlayer)** — *GSSoC 2026*
+🛡️ Creator of **[ADIUVARE](https://github.com/0-Shimanshu/guardlayer)** — *GSSoC 2026*
 <br/>
 🏆 **3× Hackathon Winner**
 <br/>
@@ -125,13 +125,14 @@ I build **infrastructure-level security tooling** — middleware, API guards, an
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h3>🛡️ <a href="https://github.com/0-Shimanshu/guardlayer">guardlayer</a></h3>
+<h3>🛡️ <a href="https://github.com/0-Shimanshu/ADIUVARE">Adiuvare</a></h3>
 
-<p>Real-time risk-based security middleware for <b>APIs & LLMs</b>. Scores every request across 5 signal categories with explainable decisions.</p>
+<p>In-process request security for <b>Python APIs</b>. Scores and stops risky requests for <b>FastAPI, Flask, and Django</b> with runtime controls and local audit visibility.</p>
 
 <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 
 <br/><br/>
@@ -140,6 +141,7 @@ I build **infrastructure-level security tooling** — middleware, API guards, an
 
 </td>
 <td width="50%" valign="top" align="center">
+
 
 <h3>🤖 <a href="https://github.com/0-Shimanshu/Minor_Project_CMCA">Campus Management Chatbot Assistant</a></h3>
 
@@ -330,7 +332,7 @@ I build **infrastructure-level security tooling** — middleware, API guards, an
 </a>
 &nbsp;
 <a href="https://github.com/0-Shimanshu/guardlayer">
-  <img src="https://img.shields.io/badge/⭐_guardlayer-FF7B54?style=for_the_badge&logo=github&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/⭐_ADIUVARE-FF7B54?style=for_the_badge&logo=github&logoColor=white" height="35" />
 </a>
 
 </div>
